@@ -11,6 +11,12 @@
   <a href="https://github.com/Smitanshu">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+
+
+  <a href="https://www.linkedin.com/smitanshu-ukey-111490259">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
   
  
 
@@ -27,7 +33,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitanshu&show_icons=true&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+![Smitanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitanshu&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitanshu&theme=dark)
 
