@@ -44,10 +44,11 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,c,cpp&perline=5)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,c,cpp&perline=5)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,windows,linux,ubuntu)](https://skillicons.dev) 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ![Smitanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitanshu&show_icons=true&theme=dark)
 
