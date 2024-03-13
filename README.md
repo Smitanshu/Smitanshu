@@ -13,7 +13,7 @@
   </a>
 
 
-  <a href="https://www.linkedin.com/smitanshu-ukey-111490259">
+  <a href="https://www.linkedin.com/in/smitanshu-ukey-111490259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
