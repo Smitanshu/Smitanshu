@@ -27,9 +27,7 @@
 </a>
 
 
-<a href="https://www.geeksforgeeks.org/user/smitanshu9dfn">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
-</a>
+
 
 
   
