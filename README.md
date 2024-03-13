@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about DSA
 - 📫 How to reach me: smitanshuukey3070@gmail.com
+- 📫 How to reach me: smitanshuukey9767@gmail.com
   
 ### Connect with me:
 <div id="badges">
@@ -24,9 +25,9 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,firebase,github,git,postman,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitanshu&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitanshu&theme=dark)
 
