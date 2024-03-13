@@ -17,6 +17,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+
+<a href="https://leetcode.com/smitanshuukey/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
+
+<a href="https://www.codingninjas.com/studio/profile/721278f5-e2dc-4603-81a6-f6c7dcbc091c">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-blue?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
+</a>
+
+
+<a href="https://www.geeksforgeeks.org/user/smitanshu9dfn">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+</a>
+
+
   
  
 
