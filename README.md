@@ -44,7 +44,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,&perline=5)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,c,cpp&perline=5)](https://skillicons.dev) <br>
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
