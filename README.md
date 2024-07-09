@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Smitanshu Ukey</h1>
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working on Java and SpringBoot.
+- 🌱 I’m currently learning Full Stack Java 
 - 💬 Ask me anything about DSA
 - 📫 How to reach me: smitanshuukey3070@gmail.com
 - 📫 How to reach me: smitanshuukey9767@gmail.com
