@@ -28,13 +28,6 @@
 -->
 
 
-
-
-
-  
- 
-
-
   
    <a href="https://www.instagram.com/smitanshu_3070">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -44,7 +37,7 @@
   </a>
 </div>
 
-### Languages and Tools:
+<!--### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,c,cpp&perline=5)](https://skillicons.dev) 
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,windows,linux,ubuntu)](https://skillicons.dev) 
@@ -55,6 +48,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitanshu&theme=dark)
 
+-->
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,c,cpp&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,windows,linux,ubuntu)](https://skillicons.dev)
+
+---
+
+### GitHub Stats
+![Smitanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitanshu&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitanshu&theme=dark)
 
 <br>
 ⭐️ From [Smitanshu](https://github.com/Smitanshu)
